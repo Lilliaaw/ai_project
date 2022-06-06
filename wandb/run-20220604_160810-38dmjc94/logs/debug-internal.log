@@ -1,0 +1,2 @@
+2022-06-04 16:08:11,863 INFO    MainThread:26676 [internal.py:wandb_internal():90] W&B internal server running at pid: 26676, started at: 2022-06-04 16:08:11.862864
+2022-06-04 16:08:11,864 INFO    WriterThread:26676 [datastore.py:open_for_write():75] open: C:\Users\Lars\Documents\NTNU\Semester-4\Kunstig-Intelligens\ai_project\wandb\run-20220604_160810-38dmjc94\run-38dmjc94.wandb

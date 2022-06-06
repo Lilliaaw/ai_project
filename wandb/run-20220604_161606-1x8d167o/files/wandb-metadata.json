@@ -1,0 +1,23 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-06-04T14:16:09.609392",
+    "startedAt": "2022-06-04T14:16:06.166582",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Documents/NTNU/Semester-4/Kunstig-Intelligens/ai_project/Hand_recognition.ipynb",
+    "root": "C:/Users/Lars/Documents/NTNU/Semester-4/Kunstig-Intelligens/ai_project",
+    "git": {
+        "remote": "https://github.com/Lilliaaw/ai_project.git",
+        "commit": "0e10ad85958d224431451186984c832154b0313f"
+    },
+    "email": "larsbho@stud.ntnu.no",
+    "host": "DESKTOP-LARS",
+    "username": "Lars",
+    "executable": "C:\\Users\\Lars\\anaconda3\\python.exe"
+}

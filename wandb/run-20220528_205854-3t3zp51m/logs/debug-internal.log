@@ -1,0 +1,4 @@
+2022-05-28 20:58:55,654 INFO    MainThread:31588 [internal.py:wandb_internal():90] W&B internal server running at pid: 31588, started at: 2022-05-28 20:58:55.654431
+2022-05-28 20:58:55,655 INFO    WriterThread:31588 [datastore.py:open_for_write():75] open: C:\Users\Lars\Documents\NTNU\Semester-4\Kunstig-Intelligens\ai_project\wandb\run-20220528_205854-3t3zp51m\run-3t3zp51m.wandb
+2022-05-28 20:58:55,657 DEBUG   SenderThread:31588 [sender.py:send():232] send: header
+2022-05-28 20:58:55,658 DEBUG   SenderThread:31588 [sender.py:send():232] send: run
